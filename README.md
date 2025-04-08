@@ -8,7 +8,13 @@ Explore the project and contribute your insights:
 
 ## Who am I?
 
-I’m a software developer who accidentally became a walking archive of tech history, like a living museum exhibit that occasionally mutters about monads. Over four decades, I’ve ricocheted between building compilers for MS-DOS (yes, the *1980s* kind), architecting object-oriented languages before Java was cool, and somehow writing two books on functional programming that—while not exactly bestsellers—make excellent bedtime reading for insomniac engineers. I once filed a patent for what’s now called multi-factor authentication, though I’d love to claim it was visionary foresight rather than a desperate attempt to stop 2000s-era wireless payments from being comically insecure. These days, I’m at Postman Labs, quietly solving “hard problems” while pretending I didn’t help build a Linux mobile OS in 2007, a time that time forgot. My career is a testament to what happens when curiosity outpaces dignity—a series of “why not?” experiments that somehow stuck around[1][7][9].  
+I’m a software developer who somehow became a living archive of tech history—a kind of ambulatory museum exhibit that occasionally mutters about monads and once knew how to make Turbo Pascal behave. Over four decades, I’ve ricocheted between building compilers for MS-DOS (yes, the 1980s one), designing object-oriented languages before Java had a fan club, and writing a couple of books on functional programming that remain niche classics in the “books engineers fall asleep to” category.
+
+Somewhere along the way, I filed a patent for what we now call multi-factor authentication—though that was less visionary foresight and more a last-ditch attempt to make early-2000s wireless payments slightly less of a security punchline.
+
+These days, I’m at Postman Labs, quietly poking at hard problems and resisting the urge to say “we tried that in 1994.” I also helped build a Linux mobile OS in 2007, which history has politely chosen not to remember.
+
+My career has been less a master plan and more a series of “why not?” experiments that got out of hand—in the best possible way. If there’s a recurring theme, it’s that curiosity, pursued persistently enough, tends to leave a trail. 
 
 ## A Tribute to My Father: The Original Curious Mind
 
