@@ -48,7 +48,7 @@ The repository includes:
 - Mathematical musings (e.g., theoretical problems like P vs NP).
 - Investigations into computer science principles.
 - Theoretical insights into music.
-- Macro-economic studies.
+- Macro-economic studies. ( under construction)
 
 It’s a tribute to curiosity itself—a celebration of intellectual wanderlust inspired by my father’s legacy.
 
